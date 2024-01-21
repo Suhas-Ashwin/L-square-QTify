@@ -3,6 +3,6 @@ import React from "react";
 export default function Logo(){
 
   return(
-    <img src="../../assets/Logo.png" alt="logo" width={67}/>
+    <img src="../../assets/logo.png" alt="logo" width={67}/>
   )
 }
