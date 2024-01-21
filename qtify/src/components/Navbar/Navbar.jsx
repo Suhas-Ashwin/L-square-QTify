@@ -8,6 +8,7 @@ export default function Navbar(){
 
   return(
     <>
+      {console.log("Inside Navbar component")}
       <nav className={styles.navbar}>
         <a href="/">
           <Logo/>
