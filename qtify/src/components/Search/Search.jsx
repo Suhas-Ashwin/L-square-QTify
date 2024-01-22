@@ -9,7 +9,7 @@ export default function Search(display){
   }
   return (
     <form className={styles.wrapper}   onSubmit={ (e) => handleSubmit} >
-      <input className={styles.search} required placeholder={display} />
+      <input className={styles.search} required placeholder={display.placeholder} />
       <button className={styles.searchBtn} type="submit">
         <SearchIcon/>
       </button>

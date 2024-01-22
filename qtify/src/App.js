@@ -6,7 +6,6 @@ function App() {
   return (
     <div>
       <Navbar/> 
-      {console.log("Inside App component")}
     </div>
   );
 }

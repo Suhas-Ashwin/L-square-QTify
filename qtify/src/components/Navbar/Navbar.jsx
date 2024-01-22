@@ -12,6 +12,8 @@ export default function Navbar(){
         <a href="/">
           <Logo/>
         </a>
+        <Search placeholder={"Search a album of your choice"}/>
+        <Button btntext={"Give Feedback"}/>
       </nav>
     </>
   )
