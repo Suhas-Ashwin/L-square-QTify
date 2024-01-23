@@ -6,7 +6,7 @@ export default function Hero(){
   return (
     <div className={styles.hero}>
       <div className={styles.herotext}>
-        <p> 10 Thousand Songs, ad-free </p>
+        <p> 100 Thousand Songs, ad-free </p>
         <p> Over thousands podcast episodes </p>
       </div>
       <Image />
