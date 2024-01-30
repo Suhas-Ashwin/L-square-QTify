@@ -24,12 +24,12 @@ function App() {
     generateData("songs", fetchSongs);
   },[]);
 
-  const {topAlbums=[], newAlbums=[], songs=[]}= data;
+  const {topAlbums = [], newAlbums = [], songs = []} = data;
   return (
     <>    
       <div>
         <Navbar/> 
-        <Outlet context={{data:{topAlbums,newAlbums,songs}}}/>
+        <Outlet context={{ data:{topAlbums,newAlbums,songs} }}/>
      </div>
     </>
 
