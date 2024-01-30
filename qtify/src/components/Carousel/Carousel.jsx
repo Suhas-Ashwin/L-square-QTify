@@ -7,6 +7,7 @@ import { Swiper, SwiperSlide, useSwiper } from 'swiper/react';
 
 // Import Swiper styles
 import 'swiper/css';
+
 import CrouselLeftNavigation from "./CarouselLeftNavigation/CarouselLeftNavigation";
 import CrouselRightNavigation from "./CarouselRightNavigation/CarouselRightNavigation";
 
