@@ -16,6 +16,7 @@
     "react-router-dom": "^6.21.0",
     "react-scripts": "5.0.1",
     "swiper": "^9.1.0",
+    "tabpanel": "^0.2.0",
     "url": "^0.11.3",
     "web-vitals": "^2.1.4",
     "webkit": "^0.0.0"
